@@ -1,8 +1,8 @@
-# [App Name] Integration Documentation
+# Nodebase App Integration Documentation
 
 ## Overview
 
-[Description]
+Building the future with Node.js
 
 ## Folder Structure
 
@@ -251,11 +251,21 @@ By following these steps, you should have your Node.js and TypeScript applicatio
 
 All API endpoints can be referenced in the [API Reference](API_REFERENCE.md) document.
 
+Here is a generated (link unavailable) f
+Auth
+
+- Register: POST /auth/register - Register a new user
+- Login: POST /auth/login - Log in a user
+- Social Login: POST /auth/social - Social login
+- Magic Link Login: POST /auth/magic-link - Magic link login
+- Change Password: POST /auth/change-password - Change user password
+
 ## Versioning
 
 This project is versioned to ensure backward compatibility and easy maintenance. The current version is [version].
 
 
 Database Models: ![Models Image](./nodebase_Models.PNG)
+
 API Links: (https://drive.google.com/file/d/1_EbzxGk4TRJzGDwI_QaXTFGR123hraiR/view?usp=drive_link)
 
