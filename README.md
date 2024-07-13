@@ -254,3 +254,8 @@ All API endpoints can be referenced in the [API Reference](API_REFERENCE.md) doc
 ## Versioning
 
 This project is versioned to ensure backward compatibility and easy maintenance. The current version is [version].
+
+
+Database Models: ![Models Image](./nodebase_Models.PNG)
+API Links: (https://drive.google.com/file/d/1_EbzxGk4TRJzGDwI_QaXTFGR123hraiR/view?usp=drive_link)
+
